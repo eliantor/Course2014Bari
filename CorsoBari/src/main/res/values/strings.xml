@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CorsoBari</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_bari">Ciao Bari</string>
+    <string name="ce_problema">Jε assai u dann</string>
+    <string name="change">Cambia</string>
+
+</resources>
